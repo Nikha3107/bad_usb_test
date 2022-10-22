@@ -1,2 +1,2 @@
-start calc
+start cmd
 start cmd
