@@ -1,2 +1,3 @@
-start cmd
 start calc
+start calc
+start notepad
